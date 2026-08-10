@@ -109,4 +109,4 @@ Recommendations can include:
 
 - 🚀 **Live Demo:** [Business Idea Generator](YOUR_STREAMLIT_APP_URL)
 - 💻 **GitHub Repository:** [Business Idea Generator](https://github.com/abdul-rasheed-19/Business-Idea-Generator)
-- 👤 **LinkedIn:** [Abdul Rasheed](https://www.linkedin.com/in/abdul-rasheed-b55217335/)
+- 👤 **LinkedIn: https://www.linkedin.com/in/abdul-rasheed-b55217335/
