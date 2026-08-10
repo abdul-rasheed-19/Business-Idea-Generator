@@ -1,0 +1,31 @@
+Business_ID,Business_Name,Category,Investment_Level,Budget_Min_INR,Budget_Max_INR,Skills_Required,Mode,Target_Audience,Revenue_Model,Difficulty,Description
+1,Online Clothing Store,E-commerce,Medium,50000,300000,Marketing;Sales,Online,Young Adults,Product Sales,Medium,Sell fashion products online.
+2,Digital Marketing Agency,Marketing,Low,20000,100000,Marketing;SEO,Online,Small Businesses,Service Fees,Medium,Provide digital marketing services.
+3,Fitness Coaching,Fitness,Low,10000,50000,Fitness;Communication,Online,Health Enthusiasts,Subscriptions,Easy,Offer personalized fitness coaching.
+4,Cloud Kitchen,Food,Medium,100000,500000,Cooking;Management,Offline,Families,Food Sales,Medium,Prepare food for online delivery.
+5,Mobile Car Wash,Automobile,Low,30000,100000,Driving;Cleaning,Offline,Car Owners,Service Fees,Easy,Doorstep car washing service.
+6,YouTube Channel,Content Creation,Low,5000,50000,Video Editing;Communication,Online,General Audience,Ads;Sponsorships,Medium,Create educational or entertainment videos.
+7,Graphic Design Studio,Design,Low,20000,100000,Design;Creativity,Online,Startups,Project Fees,Easy,Offer logo and branding services.
+8,Freelance Web Development,Technology,Low,10000,50000,HTML;CSS;Python,Online,Businesses,Project Fees,Medium,Build websites for clients.
+9,Cafe,Cafe,High,500000,1500000,Cooking;Management,Offline,Students,Food Sales,Hard,Open a coffee shop.
+10,Tuition Center,Education,Low,30000,150000,Teaching,Offline,Students,Course Fees,Easy,Teach school subjects.
+11,Organic Farming,Agriculture,Medium,100000,500000,Farming,Offline,Families,Product Sales,Medium,Grow and sell organic vegetables.
+12,Pet Grooming,Pet Care,Low,30000,100000,Animal Care,Offline,Pet Owners,Service Fees,Easy,Groom and care for pets.
+13,Photography Studio,Photography,Medium,100000,400000,Photography,Offline,Events,Project Fees,Medium,Capture weddings and events.
+14,Event Management,Events,Medium,50000,300000,Management;Communication,Offline,Companies,Service Fees,Medium,Organize events.
+15,Home Bakery,Food,Low,20000,100000,Baking,Home,Families,Product Sales,Easy,Prepare homemade bakery products.
+16,Interior Design,Design,Medium,100000,500000,Creativity;Design,Offline,Homeowners,Consultation Fees,Medium,Design residential interiors.
+17,Artificial Grass Installation,Construction,Medium,50000,300000,Installation;Sales,Offline,Sports Clubs,Project Fees,Medium,Install artificial grass for sports grounds.
+18,Gym Setup,Fitness,High,1000000,5000000,Management,Offline,Fitness Lovers,Memberships,Hard,Start a modern gym.
+19,Handmade Crafts,Handicrafts,Low,10000,50000,Creativity,Online,Gift Buyers,Product Sales,Easy,Sell handmade products online.
+20,Travel Agency,Travel,Medium,50000,300000,Planning;Communication,Online,Travelers,Commissions,Medium,Plan travel packages.
+21,AI Resume Builder,Technology,Low,10000,50000,Python;AI,Online,Job Seekers,Subscriptions,Medium,Generate professional resumes.
+22,AI Study Assistant,Education,Low,10000,50000,Python;AI,Online,Students,Subscriptions,Medium,Provide AI-powered learning support.
+23,AI Chatbot Agency,Technology,Medium,50000,300000,Python;AI,Online,Businesses,Service Fees,Medium,Build chatbots for businesses.
+24,Dropshipping Store,E-commerce,Low,10000,50000,Marketing,Online,Consumers,Product Sales,Easy,Sell products without inventory.
+25,Podcast Production,Media,Low,10000,50000,Audio Editing,Online,Creators,Service Fees,Easy,Produce podcasts.
+26,Social Media Agency,Marketing,Low,20000,100000,Marketing,Online,Local Businesses,Monthly Retainers,Easy,Manage social media accounts.
+27,Mobile App Development,Technology,Medium,50000,300000,Flutter;Python,Online,Startups,Project Fees,Medium,Develop mobile applications.
+28,Cybersecurity Consulting,Technology,Medium,50000,500000,Networking;Security,Online,Companies,Consulting Fees,Hard,Protect businesses from cyber threats.
+29,Online Bookstore,E-commerce,Medium,50000,300000,Marketing,Online,Readers,Product Sales,Medium,Sell books online.
+30,Real Estate Consultancy,Real Estate,Medium,50000,300000,Sales,Offline,Property Buyers,Commissions,Medium,Help clients buy and sell property.
