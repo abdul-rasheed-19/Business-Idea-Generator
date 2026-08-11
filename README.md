@@ -60,7 +60,7 @@ Recommendations can include:
 ---
 ## 🔗 Project Links
 
-- 🚀 **Live Demo:** [Business Idea Generator](YOUR_STREAMLIT_APP_URL)
+- 🚀 **Live Demo:** [Business Idea Generator](https://business-idea-generator29.streamlit.app/)
   
 - 💻 **GitHub Repository:** [Business Idea Generator](https://github.com/abdul-rasheed-19/Business-Idea-Generator)
 
